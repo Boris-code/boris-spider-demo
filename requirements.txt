@@ -1,0 +1,1 @@
+boris_spider==1.0.5
