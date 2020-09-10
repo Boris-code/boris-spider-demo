@@ -60,6 +60,10 @@ RANDOM_HEADERS = True
 # requests 使用session
 USE_SESSION = False
 
+# 去重
+ITEM_FILTER_ENABLE = False # item 去重
+REQUEST_FILTER_ENABLE = False # request 去重
+
 # 报警
 DINGDING_WARNING_URL = ""
 DINGDING_WARNING_PHONE = ""
