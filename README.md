@@ -1,5 +1,9 @@
 # boris-spider 爬虫示例
 
+## 单机爬虫
+
+sigle_spider.py
+
 ## 1. 分布式爬虫-Spider 示例
 
 spider_demo 
